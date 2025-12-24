@@ -251,7 +251,8 @@ P.S.: если при запуске некоторые контейнеры б�
 
 <img width="1920" height="1080" alt="Снимок экрана (2193)" src="https://github.com/user-attachments/assets/9fae6583-51ad-44bb-a23c-257ee3d9382e" />
 
-<img width="1920" height="1080" alt="Снимок экрана (2192)" src="https://github.com/user-attachments/assets/300d6dda-2584-4c4a-8e3d-a3dbd1ac31f5" />
+<img width="1920" height="1080" alt="Снимок экрана (2190)" src="https://github.com/user-attachments/assets/ea094773-c198-491e-b00b-e02b15ee4701" />
+
 
 
 
